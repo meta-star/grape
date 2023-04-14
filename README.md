@@ -1,4 +1,4 @@
-# template.recv
+# grape
 
 一個小型卻強大的微服務框架。
 

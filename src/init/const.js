@@ -1,4 +1,4 @@
 "use strict";
 // Constants
 
-exports.APP_NAME = "template.recv";
+exports.APP_NAME = "grape";
